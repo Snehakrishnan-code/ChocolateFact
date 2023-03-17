@@ -1,0 +1,251 @@
+{
+    "outlets": [
+      {
+        "id": 1,
+        "name": "Choco Lounge",
+        "neighborhood": "Manhattan",
+        "photograph": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+        "address": "171 E Broadway, New York, NY 10002",
+        "latlng": {
+          "lat": 40.713829,
+          "lng": -73.989667
+        },
+        "cuisine_type": "Desert",
+        "operating_hours": {
+          "Monday": "5:30 pm - 11:00 pm",
+          "Tuesday": "5:30 pm - 12:00 am",
+          "Wednesday": "5:30 pm - 12:00 am",
+          "Thursday": "5:30 pm - 12:00 am",
+          "Friday": "5:30 pm - 12:00 am",
+          "Saturday": "12:00 pm - 4:00 pm, 5:30 pm - 12:00 am",
+          "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
+        },
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": "choco Lounge has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Morgan",
+            "date": "October 26, 2016",
+            "rating": 3.5,
+            "comments": "This place is a blast. choco Lounge has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          
+            {
+            "name": "Jason",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. choco Lounge has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Emily's chocolate spot",
+        "neighborhood": "Brooklyn",
+        "photograph": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+        "address": "919 Fulton St, Brooklyn, NY 11238",
+        "latlng": {
+          "lat": 40.683555,
+          "lng": -73.966393
+        },
+        "cuisine_type": "Desert",
+        "operating_hours": {
+          "Monday": "5:30 pm - 11:00 pm",
+          "Tuesday": "5:30 pm - 11:00 pm",
+          "Wednesday": "5:30 pm - 11:00 pm",
+          "Thursday": "5:30 pm - 11:00 pm",
+          "Friday": "5:30 pm - 11:00 pm",
+          "Saturday": "5:00 pm - 11:30 pm",
+          "Sunday": "12:00 pm - 3:00 pm, 5:00 pm - 11:00 pm"
+        },
+        "reviews": [
+          {
+            "name": "Steph",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": "Emily's chocolate spot has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": "Emily's chocolate spot has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Sam",
+            "date": "October 26, 2016",
+            "rating": 3.5,
+            "comments": "Emily's chocolate spot has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Kang Ho Pure Chocolates",
+        "neighborhood": "Manhattan",
+        "photograph": "https://images.unsplash.com/photo-1590330813083-fc22d4b6a48c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+        "address": "1 E 32nd St, New York, NY 10016",
+        "latlng": {
+          "lat": 40.747143,
+          "lng": -73.985414
+        },
+        "cuisine_type": "deserts",
+        "operating_hours": {
+          "Monday": "11:30 am - 2:00 am",
+          "Tuesday": "11:30 am - 2:00 am",
+          "Wednesday": "11:30 am - 2:00 am",
+          "Thursday": "11:30 am - 2:00 am",
+          "Friday": "11:30 am - 6:00 am",
+          "Saturday": "11:30 am - 6:00 am",
+          "Sunday": "11:30 am - 2:00 am"
+        },
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": "Kang Ho Pure Chocolates has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "ZS",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": "Kang Ho Pure Chocolates has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Emily",
+            "date": "October 26, 2016",
+            "rating": 2.5,
+            "comments": "Kang Ho Pure Chocolates has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+         }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Katz's Delicacies",
+        "neighborhood": "Manhattan",
+        "photograph": "https://images.unsplash.com/photo-1595436252086-7496fb8c41e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80",
+        "address": "205 E Houston St, New York, NY 10002",
+        "latlng": {
+          "lat": 40.722216,
+          "lng": -73.987501
+        },
+        "cuisine_type": "deserts",
+        "operating_hours": {
+          "Monday": "8:00 am - 10:30 pm",
+          "Tuesday": "8:00 am - 10:30 pm",
+          "Wednesday": "8:00 am - 10:30 pm",
+          "Thursday": "8:00 am - 2:30 am",
+          "Friday": "8:00 am - Sat",
+          "Saturday": "Open 24 hours",
+          "Sunday": "Sat - 10:30 pm"
+        },
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": "Katz's Delicacies has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Allen",
+            "date": "October 26, 2016",
+            "rating": 5,
+            "comments": "Katz's Delicacies has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "David",
+            "date": "October 26, 2016",
+            "rating": 2.5,
+            "comments": "Katz's Delicacies has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Roberta's Dark Chocolate Place",
+        "neighborhood": "Brooklyn",
+        "photograph": "https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1534&q=80",
+        "address": "261 Moore St, Brooklyn, NY 11206",
+        "latlng": {
+          "lat": 40.705089,
+          "lng": -73.933585
+        },
+        "cuisine_type": "Deserts",
+        "operating_hours": {
+          "Monday": "11:00 am - 12:00 am",
+          "Tuesday": "11:00 am - 12:00 am",
+          "Wednesday": "11:00 am - 12:00 am",
+          "Thursday": "11:00 am - 12:00 am",
+          "Friday": "11:00 am - 12:00 am",
+          "Saturday": "10:00 am - 12:00 am",
+          "Sunday": "10:00 am - 12:00 am"
+        },
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": "Roberta's Dark Chocolate Place has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Raymond",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": "Roberta's Dark Chocolate Place has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Laurel",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": "Roberta's Dark Chocolate Place has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Hometown choco spot",
+        "neighborhood": "Brooklyn",
+        "photograph": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1534&q=80",
+        "address": "454 Van Brunt St, Brooklyn, NY 11231",
+        "latlng": {
+          "lat": 40.674925,
+          "lng": -74.016162
+        },
+        "cuisine_type": "Deserts",
+        "operating_hours": {
+          "Monday": "Closed",
+          "Tuesday": "12:00 pm - 10:00 pm",
+          "Wednesday": "12:00 pm - 10:00 pm",
+          "Thursday": "12:00 pm - 10:00 pm",
+          "Friday": "12:00 pm - 11:00 pm",
+          "Saturday": "12:00 pm - 11:00 pm",
+          "Sunday": "12:00 pm - 9:00 pm"
+        },
+        "reviews": [
+          {
+            "name": "Steve",
+            "date": "October 26, 2016",
+            "rating": 3.5,
+            "comments": "Hometown choco spot has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Michelle",
+            "date": "October 26, 2016",
+            "rating": 4.5,
+            "comments": "Hometown choco spot has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          },
+          {
+            "name": "Ai-Mei",
+            "date": "October 26, 2016",
+            "rating": 4,
+            "comments": "Hometown choco spot has grown up from its scrappy Orchard Street days into a big, two story spot equipped with broader chocolaty menu."
+          }
+        ]
+      }
+    ]
+  }
